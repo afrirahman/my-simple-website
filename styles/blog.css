@@ -6,7 +6,14 @@ h3{
     text-decoration: underline; 
 
 }
-    .git{
+    h2{
+        font-size: x-large;
+        font-style: italic;
+        text-decoration: underline rgb(141, 54, 170);
+        text-shadow: none;
+    }
+
+    .git{ 
         border-radius: 10px;
         color: rgb(82, 30, 131);
         border: 5px solid palevioletred;
